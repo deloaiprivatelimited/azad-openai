@@ -161,7 +161,7 @@ from models.upsc_syllabus import UPSCSyllabus
 from models.micro_unit_note import MicroUnit
 
 # --- CONFIG ---
-MAX_THREADS = 6
+MAX_THREADS = 3
 MAX_REQUESTS_PER_MIN = 400
 
 rate_limiter = RateLimiter(

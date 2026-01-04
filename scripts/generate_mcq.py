@@ -74,7 +74,12 @@ from mongoengine import (
     Document, ReferenceField, StringField,
     ListField, IntField, BooleanField, EmbeddedDocument, EmbeddedDocumentField, DictField
 )
+from mongoengine import connect
 
+connect(
+    db="upsc",
+    host="mongodb+srv://user:user@cluster0.rgocxdb.mongodb.net/upsc"
+)
 
 class MCQOptionDoc(EmbeddedDocument):
     option = StringField(required=True)  # A, B, C, D
@@ -92,29 +97,7 @@ class IndividualMCQDoc(EmbeddedDocument):
     image_reason = StringField()
 
 
-class MicroUnitNote(Document):
-    micro_unit = ReferenceField(
-        MicroUnit,
-        required=True,
-        unique=True
-    )
 
-    content = StringField(required=True)
-
-    # image control
-    image_required = BooleanField(default=False)
-    image_reasons = ListField(StringField())
-
-    word_count = IntField()
-
-    # versioning
-    v1_generated = BooleanField(default=False)
-    v1_verified = BooleanField(default=False)
-
-    meta = {
-        "collection": "micro_unit_notes",
-        "indexes": ["micro_unit"]
-    }
 
 
 class SubTopic(Document):
@@ -182,6 +165,9 @@ class MicroUnitMCQ(Document):
         "collection": "micro_unit_mcqs",
         "indexes": ["micro_unit"]
     }
+from pydantic import BaseModel
+from typing import List
+
 
 class MCQOption(BaseModel):
     option: str  # A, B, C, D
@@ -352,7 +338,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from models.upsc_syllabus import UPSCSyllabus
 from models.micro_units import MicroUnit
 
-MAX_THREADS = 6
+MAX_THREADS = 3
 MAX_REQUESTS_PER_MIN = 400
 
 rate_limiter = RateLimiter(
@@ -397,3 +383,5 @@ def run_mcq_generation_threaded():
 
         for future in as_completed(tasks):
             print(future.result())
+if __name__ == "__main__":
+    run_mcq_generation_threaded()
