@@ -1,0 +1,190 @@
+exam,stage,paper,subject,subtopic,v1_generated,v2_cleaned,v3_verified,v4_finalized
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Current Events of National and International Importance,Events of National Importance,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Current Events of National and International Importance,Government Policies and Interventions,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Current Events of National and International Importance,Economic Developments,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Current Events of National and International Importance,Environmental Issues,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Current Events of National and International Importance,Global Summits and Organizations,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,History of India & Indian National Movement,Ancient India,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,History of India & Indian National Movement,Medieval India,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,History of India & Indian National Movement,Modern India,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,History of India & Indian National Movement,Indian National Movement,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Indian & World Geography,Geographical Features and their Location,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Indian & World Geography,Climate Change,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Indian & World Geography,Geographical Phenomena,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Indian & World Geography,Population and Settlement,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Indian & World Geography,Environmental Degradation and Conservation,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Indian Polity & Governance,Constitution of India,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Indian Polity & Governance,Political System,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Indian Polity & Governance,Panchayati Raj,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Indian Polity & Governance,Rights Issues,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Economic & Social Development,Tribes and their economic systems,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Economic & Social Development,Role of IT in growth and development,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Economic & Social Development,Food Security,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Economic & Social Development,"Public Distribution Systems - objectives, functioning, limitations, revamping",True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Economic & Social Development,"Human Development: Poverty, Human Resource",True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Environment Ecology Biodiversity & Climate Change,Ecosystem Dynamics,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Environment Ecology Biodiversity & Climate Change,Natural Resource Conservation,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,Environment Ecology Biodiversity & Climate Change,Sustainable Development,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,General Science,Physics,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,General Science,Chemistry,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,General Science,Biology,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,General Science,Environmental Science and Ecology,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,General Science,Space Technology,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,General Science,Robotics and Nanotechnology,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,General Science,Biotechnology,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper I,General Science,Health and Disease,True,True,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper II (CSAT),Comprehension,Reading Comprehension,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper II (CSAT),Comprehension,Communication Skills,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper II (CSAT),Logical & Analytical Reasoning,Logical Reasoning (Analytical Ability and Verbal Reasoning),True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper II (CSAT),Decision Making & Problem Solving,Situation Analysis,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper II (CSAT),Decision Making & Problem Solving,Complex Problem Solving,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper II (CSAT),Decision Making & Problem Solving,Ethical Decision Making,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper II (CSAT),Decision Making & Problem Solving,Logical Reasoning,True,False,False,False
+UPSC Civil Services Examination,Prelims,General Studies Paper II (CSAT),Decision Making & Problem Solving,Basic Numeracy,True,False,False,False
+UPSC Civil Services Examination,Mains,Essay Paper,Essay,Current Affairs,True,False,False,False
+UPSC Civil Services Examination,Mains,Essay Paper,Essay,Political Issues,True,False,False,False
+UPSC Civil Services Examination,Mains,Essay Paper,Essay,Cultural Heritage,True,False,False,False
+UPSC Civil Services Examination,Mains,Essay Paper,Essay,International Relations,True,False,False,False
+UPSC Civil Services Examination,Mains,Essay Paper,Essay,Philosophical Essays,True,False,False,False
+UPSC Civil Services Examination,Mains,Essay Paper,Essay,Historical Analysis,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Indian Culture,Indian Society and Diversity,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Indian History,Ancient History,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Indian History,Medieval History,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Indian History,Modern Indian History,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Indian History,Post-Independence Consolidation,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Indian History,World History,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Indian History,Art Forms,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Indian History,Literature,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Indian History,Architecture,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,World History,Industrial Revolution,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,World History,World Wars,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,World History,Redrawal of National Boundaries,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,World History,Political Philosophies,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Geography of India & World,Salient features of world's physical geography,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Geography of India & World,Distribution of key natural resources,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Geography of India & World,"Factors responsible for location of primary, secondary, and tertiary sector industries",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Geography of India & World,"Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone, etc.",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Geography of India & World,Geographical features and their location - changes in critical geographical features,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Geography of India & World,Important Geophysical phenomena,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Geography of India & World,Distribution of key resources across the world including South Asia and the Indian sub-continent,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper I,Geography of India & World,Geographical features in news,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Indian Constitution,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Historical Underpinnings,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Evolution and Features,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Amendments,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Significant Provisions,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Basic Structure,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Functions and Responsibilities of the Union and the States,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Issues and Challenges Pertaining to the Federal Structure,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Devolution of Powers and Finances Up to Local Levels and Challenges Therein,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Separation of Powers Between Various Organs,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Dispute Redressal Mechanisms and Institutions,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Comparison of the Indian Constitutional Scheme with Other Countries,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,"Parliament and State Legislatures – Structure, Functioning, Conduct of Business, Powers & Privileges",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,"Structure, Organization and Functioning of the Executive and the Judiciary",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Appointment to Various Constitutional Posts,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,"Powers, Functions and Responsibilities of Various Constitutional Bodies",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,"Statutory, Regulatory and Various Quasi-Judicial Bodies",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Government Policies and Interventions for Development in Various Sectors,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Issues Arising Out of Their Design and Implementation.,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Development Processes and the Development Industry – the Role of NGOs,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,"SHGs, Various Groups and Associations, Donors, Charities, Institutional and Other Stakeholders",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Welfare Schemes for Vulnerable Sections of the Population by the Centre and States and the Performance of These Schemes,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,"Mechanisms, Laws, Institutions and Bodies Constituted for the Protection and Betterment of These Vulnerable Sections",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,"Issues Relating to Development and Management of Social Sector/Services Relating to Health, Education, Human Resources",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Issues Relating to Poverty and Hunger.,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Indian Polity & Constitution,Role of Civil Services in a Democracy,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Governance & Public Administration,Constitution of India,True,True,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Governance & Public Administration,Indian polity,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Governance & Public Administration,Social justice,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Governance & Public Administration,International relations,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Governance & Public Administration,Issues relating to development and management of Social Sector/Services,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Governance & Public Administration,Issues relating to poverty and hunger,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Governance & Public Administration,India and its neighborhood relations,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Social Justice,Issues Relating to Development and Management of Social Sector/Services,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Social Justice,Government Policies and Interventions,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Social Justice,Issues Relating to Poverty and Hunger,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Social Justice,Important Aspects of Governance,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,Social Justice,"Role of NGOs, SHGs, Various Groups and Associations",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,International Relations,India and its Neighborhood- Relations,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,International Relations,"Bilateral, Regional and Global Groupings and Agreements involving India and/or affecting India’s interests",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,International Relations,Effect of Policies and Politics of Developed and Developing Countries on India’s interests,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,International Relations,Indian Diaspora,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper II,International Relations,"Important International Institutions, Agencies and fora - their Structure, Mandate",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,Government Budgeting.,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,Major crops-cropping patterns in various parts of the country.,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,Different types of irrigation and irrigation systems storage.,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,Issues related to direct and indirect farm subsidies and minimum support prices.,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,"Public Distribution System - objectives, functioning, limitations, revamping.",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,Technology missions.,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,Economics of animal-rearing.,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,"Food processing and related industries in India - scope and significance, location, upstream and downstream requirements, supply chain management.",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,Land reforms in India.,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,"Effects of liberalization on the economy, changes in industrial policy and their effects on industrial growth.",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,"Infrastructure: Energy, Ports, Roads, Airports, Railways etc.",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Indian Economy,Investment models.,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Agriculture,Issues related to direct and indirect farm subsidies and minimum support prices,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Agriculture,Issues of buffer stocks and food security,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Agriculture,Technology missions,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Agriculture,Economics of animal-rearing,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Agriculture,"Food processing and related industries in India - scope and significance, location, upstream and downstream requirements, supply chain management",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Agriculture,Impact of changes in industrial policy on agriculture,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Agriculture,Investment models,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Science & Technology,"Awareness in the fields of IT, Space, Computers, Robotics, Nanotechnology, Biotechnology, and issues relating to intellectual property rights",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Science & Technology,Disaster and disaster management,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Science & Technology,Linkages between development and spread of extremism,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Science & Technology,"Challenges to internal security through communication networks, role of media and social networking sites in internal security challenges, basics of cyber security; money-laundering and its prevention",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Science & Technology,Security challenges and their management in border areas; linkages of organized crime with terrorism,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Science & Technology,Various Security forces and agencies and their mandate,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Environment & Ecology,Conservation,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Environment & Ecology,Environmental Impact Assessment,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Environment & Ecology,Disaster and Disaster Management,True,True,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Environment & Ecology,Climate Change,True,True,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Environment & Ecology,Vulnerabilities related to Climate Change,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Environment & Ecology,Sustainable Development,True,True,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Environment & Ecology,Biodiversity,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Environment & Ecology,Forestry,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Disaster Management,Vulnerability profile of India,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Disaster Management,Disaster preparedness,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Disaster Management,Disaster mitigation,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Disaster Management,Disaster response and relief,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Disaster Management,Institutional frameworks,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Disaster Management,Disaster risk reduction policies,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Disaster Management,Technologies for disaster management,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Internal Security,Money Laundering and its Prevention,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper III,Internal Security,Various Security Forces and Agencies and their Mandate,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper IV,Ethics,Ethical Concerns and Dilemmas in Government and Private Institutions,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper IV,Ethics,"Laws, Rules, Regulations and Conscience as Sources of Ethical Guidance",True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper IV,Ethics,Accountability and Ethical Governance,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper IV,Ethics,Citizen's Charters,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper IV,Ethics,Work Culture,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper IV,Ethics,Quality of Service Delivery,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper IV,Ethics,Utilization of Public Funds,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper IV,Ethics,Challenges of Corruption,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper IV,Integrity & Probity,Contributions of Moral Thinkers,True,False,False,False
+UPSC Civil Services Examination,Mains,General Studies Paper IV,Integrity & Probity,Public/Civil Service Values,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,History of the Subject,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Theories and Concepts,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Research Methods,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Contemporary Issues,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Case Studies,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Comparative Analysis,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Economic Analysis,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Social Dynamics,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Cultural Dimensions,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Innovation and Technology,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Environment and Resources,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Impact Assessment,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,Legislative Framework,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper I,Optional Subject,International Perspective,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper II,Optional Subject,Politics in India since Independence,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper II,Optional Subject,Challenges to Indian Democracy,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper II,Optional Subject,Planning and Economic Development,True,True,False,False
+UPSC Civil Services Examination,Mains,Optional Paper II,Optional Subject,Sources of Law,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper II,Optional Subject,Law of Crimes,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper II,Optional Subject,Judiciary in India,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper II,Optional Subject,Indian National Movement,True,False,False,False
+UPSC Civil Services Examination,Mains,Optional Paper II,Optional Subject,Ethics in Public Administration,True,False,False,False
+UPSC Civil Services Examination,Interview,Personality Test,Personality Assessment,Analysis of Personality,True,False,False,False
+UPSC Civil Services Examination,Interview,Personality Test,Personality Assessment,Suitability for a Career in Public Service,True,False,False,False
+UPSC Civil Services Examination,Interview,Personality Test,Personality Assessment,Awareness of National and International Affairs,True,False,False,False
